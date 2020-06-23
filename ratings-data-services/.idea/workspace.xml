@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec10cc6-d2b9-4129-bc8e-52358964d114" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../LLDPattern/src/main/java/BuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLDPattern/src/main/java/BuilderPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/QuestionRepository/QuestionSqlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/QuestionRepository/QuestionSqlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/QuestionService/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/QuestionService/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/Controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionSqlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionSqlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demosecurity/src/main/java/dev/interviewbit/security/demosecurity/Controller/controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demosecurity/src/main/java/dev/interviewbit/security/demosecurity/Controller/controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1df87y7gOwnHNujg612YalGDO2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie-catalog-services" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RatingsDataServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ratings-data-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.capcoder.ratingsdataservices.RatingsDataServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec10cc6-d2b9-4129-bc8e-52358964d114" name="Default Changelist" comment="" />
+      <created>1592804623457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592804623457</updated>
+      <workItem from="1592804628074" duration="602000" />
+      <workItem from="1592892066088" duration="8523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1592903991591">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="804" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1592903991591" />
+    <state x="779" y="311" width="527" height="491" key="FileChooserDialogImpl" timestamp="1592929172115">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="527" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1592929172115" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1592928978895">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978895" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1592928978895">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978895" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1592928978895">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978895" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1592928978895">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978895" />
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom" timestamp="1592928978896">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978896" />
+    <state width="1802" height="275" key="GridCell.Tab.1.center" timestamp="1592928978896">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978896" />
+    <state width="1802" height="275" key="GridCell.Tab.1.left" timestamp="1592928978896">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978896" />
+    <state width="1802" height="275" key="GridCell.Tab.1.right" timestamp="1592928978896">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592928978896" />
+  </component>
+</project>

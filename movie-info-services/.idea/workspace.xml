@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dfeb8df-f124-4444-8b62-45eed7ec2bee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../LLDPattern/src/main/java/BuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LLDPattern/src/main/java/BuilderPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/QuestionRepository/QuestionSqlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/QuestionRepository/QuestionSqlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/QuestionService/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/QuestionService/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoApp/src/main/java/dev/Interviewbit/TodoApp/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/Controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionSqlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/repository/QuestionSqlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demosecurity/src/main/java/dev/interviewbit/security/demosecurity/Controller/controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demosecurity/src/main/java/dev/interviewbit/security/demosecurity/Controller/controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1df87nocOCHEfMKKeXtd6ngMkKN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/capcoder/movieinfoservices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/capcoder/movieinfoservices" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MovieInfoServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-info-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.capcoder.movieinfoservices.MovieInfoServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dfeb8df-f124-4444-8b62-45eed7ec2bee" name="Default Changelist" comment="" />
+      <created>1592804621526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592804621526</updated>
+      <workItem from="1592804625377" duration="593000" />
+      <workItem from="1592895949012" duration="7106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="235" width="732" height="644" key="#Inspections" timestamp="1592925230413">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="625" y="235" width="732" height="644" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1592925230413" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1592928953225">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953225" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1592928953224">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953224" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1592928953224">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953224" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1592928953225">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953225" />
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom" timestamp="1592928953226">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953226" />
+    <state width="1802" height="275" key="GridCell.Tab.1.center" timestamp="1592928953225">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953225" />
+    <state width="1802" height="275" key="GridCell.Tab.1.left" timestamp="1592928953225">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953225" />
+    <state width="1802" height="275" key="GridCell.Tab.1.right" timestamp="1592928953226">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592928953226" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1592904559556">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1592904559556" />
+  </component>
+</project>
